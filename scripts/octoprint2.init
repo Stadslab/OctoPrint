@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ### BEGIN INIT INFO
-# Provides:          octoprint
+# Provides:          octoprint2
 # Required-Start:    $local_fs networking
 # Required-Stop:
 # Should-Start:
