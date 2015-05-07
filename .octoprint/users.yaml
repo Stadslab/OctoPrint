@@ -1,0 +1,15 @@
+Marco:
+  active: true
+  apikey: null
+  password: c79777fb4c05bda7eea788bc65ffcc835ed49fac0fe037b47583acbe237721a8a77f319c3209d13a077d1b6e20c3d74c9ba07e9e27a4566dc63c843f8437ad42
+  roles:
+  - user
+  - admin
+  settings: {}
+stadslab:
+  active: true
+  apikey: null
+  password: b3913817fb1c711571b5b411d7def57cc67abc2f143d74655ae729d9041e986be4b7ad5b8b1661be4c6157679359578b7c308b29646707f481c8e7a9760eb5a6
+  roles:
+  - user
+  settings: {}

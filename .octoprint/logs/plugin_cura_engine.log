@@ -1,0 +1,199 @@
+2015-05-07 17:26:53,962 ### Slicing /home/pi/.octoprint/uploads/endstop-holder-z.stl to /tmp/tmpMg1bsP.gco using profile stored at /tmp/slicing-profile-temp-E4Jy8L.profile
+2015-05-07 17:39:25,289 ### Slicing /home/pi/.octoprint/uploads/endstop-holder-z.stl to /tmp/tmpBwcr0w.gco using profile stored at /tmp/slicing-profile-temp-11p2K0.profile
+2015-05-07 17:39:26,928 Cura_SteamEngine version 14.12.1
+2015-05-07 17:39:26,931 Copyright (C) 2014 David Braam
+2015-05-07 17:39:26,934 
+2015-05-07 17:39:26,944 This program is free software: you can redistribute it and/or modify
+2015-05-07 17:39:26,947 it under the terms of the GNU Affero General Public License as published by
+2015-05-07 17:39:26,950 the Free Software Foundation, either version 3 of the License, or
+2015-05-07 17:39:26,953 (at your option) any later version.
+2015-05-07 17:39:26,956 
+2015-05-07 17:39:26,959 This program is distributed in the hope that it will be useful,
+2015-05-07 17:39:26,962 but WITHOUT ANY WARRANTY; without even the implied warranty of
+2015-05-07 17:39:26,965 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+2015-05-07 17:39:26,969 GNU Affero General Public License for more details.
+2015-05-07 17:39:26,971 
+2015-05-07 17:39:26,974 You should have received a copy of the GNU Affero General Public License
+2015-05-07 17:39:26,977 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+2015-05-07 17:39:26,980 Default config 'default.cfg' not used
+2015-05-07 17:39:26,983 Loading /home/pi/.octoprint/uploads/endstop-holder-z.stl from disk...
+2015-05-07 17:39:26,990 Loaded from disk in 0.078s
+2015-05-07 17:39:26,994 Analyzing and optimizing model...
+2015-05-07 17:39:27,030 Face counts: 1504 -> 1442 95.9%
+2015-05-07 17:39:27,033 Vertex counts: 4512 -> 715 15.8%
+2015-05-07 17:39:27,046 Size: 40.477000 17.000000 10.000000
+2015-05-07 17:39:27,052 vMin: 79.762000 91.500000 0.000000
+2015-05-07 17:39:27,055 vMax: 120.239000 108.500000 10.000000
+2015-05-07 17:39:27,058 vMin: -20.000000 0.000000 0.000000
+2015-05-07 17:39:27,061 vMax: 20.477000 17.000000 10.000000
+2015-05-07 17:39:27,064 Matrix: 1.000000 0.000000 0.000000
+2015-05-07 17:39:27,067 Matrix: 0.000000 1.000000 0.000000
+2015-05-07 17:39:27,070 Matrix: 0.000000 0.000000 1.000000
+2015-05-07 17:39:27,073 Optimize model 0.049s
+2015-05-07 17:39:27,076 Slicing model...
+2015-05-07 17:39:27,079 Layer count: 50
+2015-05-07 17:39:27,399 Sliced model in 0.335s
+2015-05-07 17:39:27,402 Generating support map...
+2015-05-07 17:39:27,405 Generating layer parts...
+2015-05-07 17:39:27,484 Generated layer parts in 0.090s
+2015-05-07 17:39:27,487 Progress:inset:1:50
+2015-05-07 17:39:27,492 Progress:inset:2:50
+2015-05-07 17:39:27,507 Progress:inset:3:50
+2015-05-07 17:39:27,532 Progress:inset:4:50
+2015-05-07 17:39:27,540 Progress:inset:5:50
+2015-05-07 17:39:27,556 Progress:inset:6:50
+2015-05-07 17:39:27,580 Progress:inset:7:50
+2015-05-07 17:39:27,587 Progress:inset:8:50
+2015-05-07 17:39:27,607 Progress:inset:9:50
+2015-05-07 17:39:27,628 Progress:inset:10:50
+2015-05-07 17:39:27,640 Progress:inset:11:50
+2015-05-07 17:39:27,659 Progress:inset:12:50
+2015-05-07 17:39:27,678 Progress:inset:13:50
+2015-05-07 17:39:27,697 Progress:inset:14:50
+2015-05-07 17:39:27,708 Progress:inset:15:50
+2015-05-07 17:39:27,740 Progress:inset:16:50
+2015-05-07 17:39:27,752 Progress:inset:17:50
+2015-05-07 17:39:27,773 Progress:inset:18:50
+2015-05-07 17:39:27,791 Progress:inset:19:50
+2015-05-07 17:39:27,811 Progress:inset:20:50
+2015-05-07 17:39:27,837 Progress:inset:21:50
+2015-05-07 17:39:27,857 Progress:inset:22:50
+2015-05-07 17:39:27,876 Progress:inset:23:50
+2015-05-07 17:39:27,897 Progress:inset:24:50
+2015-05-07 17:39:27,917 Progress:inset:25:50
+2015-05-07 17:39:27,937 Progress:inset:26:50
+2015-05-07 17:39:27,957 Progress:inset:27:50
+2015-05-07 17:39:27,977 Progress:inset:28:50
+2015-05-07 17:39:27,996 Progress:inset:29:50
+2015-05-07 17:39:28,016 Progress:inset:30:50
+2015-05-07 17:39:28,044 Progress:inset:31:50
+2015-05-07 17:39:28,052 Progress:inset:32:50
+2015-05-07 17:39:28,076 Progress:inset:33:50
+2015-05-07 17:39:28,090 Progress:inset:34:50
+2015-05-07 17:39:28,110 Progress:inset:35:50
+2015-05-07 17:39:28,124 Progress:inset:36:50
+2015-05-07 17:39:28,407 Progress:inset:37:50
+2015-05-07 17:39:28,411 Progress:inset:38:50
+2015-05-07 17:39:28,419 Progress:inset:39:50
+2015-05-07 17:39:28,429 Progress:inset:40:50
+2015-05-07 17:39:28,432 Progress:inset:41:50
+2015-05-07 17:39:28,445 Progress:inset:42:50
+2015-05-07 17:39:28,454 Progress:inset:43:50
+2015-05-07 17:39:28,457 Progress:inset:44:50
+2015-05-07 17:39:28,467 Progress:inset:45:50
+2015-05-07 17:39:28,477 Progress:inset:46:50
+2015-05-07 17:39:28,481 Progress:inset:47:50
+2015-05-07 17:39:28,488 Progress:inset:48:50
+2015-05-07 17:39:28,498 Progress:inset:49:50
+2015-05-07 17:39:28,501 Progress:inset:50:50
+2015-05-07 17:39:28,519 Generated inset in 0.781s
+2015-05-07 17:39:28,522 Progress:skin:1:50
+2015-05-07 17:39:28,531 Progress:skin:2:50
+2015-05-07 17:39:28,534 Progress:skin:3:50
+2015-05-07 17:39:28,543 Progress:skin:4:50
+2015-05-07 17:39:28,552 Progress:skin:5:50
+2015-05-07 17:39:28,555 Progress:skin:6:50
+2015-05-07 17:39:28,564 Progress:skin:7:50
+2015-05-07 17:39:28,573 Progress:skin:8:50
+2015-05-07 17:39:28,577 Progress:skin:9:50
+2015-05-07 17:39:28,594 Progress:skin:10:50
+2015-05-07 17:39:28,628 Progress:skin:11:50
+2015-05-07 17:39:28,664 Progress:skin:12:50
+2015-05-07 17:39:28,682 Progress:skin:13:50
+2015-05-07 17:39:28,714 Progress:skin:14:50
+2015-05-07 17:39:28,753 Progress:skin:15:50
+2015-05-07 17:39:28,774 Progress:skin:16:50
+2015-05-07 17:39:28,821 Progress:skin:17:50
+2015-05-07 17:39:28,841 Progress:skin:18:50
+2015-05-07 17:39:28,875 Progress:skin:19:50
+2015-05-07 17:39:28,921 Progress:skin:20:50
+2015-05-07 17:39:28,957 Progress:skin:21:50
+2015-05-07 17:39:28,986 Progress:skin:22:50
+2015-05-07 17:39:29,015 Progress:skin:23:50
+2015-05-07 17:39:29,051 Progress:skin:24:50
+2015-05-07 17:39:29,072 Progress:skin:25:50
+2015-05-07 17:39:29,108 Progress:skin:26:50
+2015-05-07 17:39:29,148 Progress:skin:27:50
+2015-05-07 17:39:29,175 Progress:skin:28:50
+2015-05-07 17:39:29,221 Progress:skin:29:50
+2015-05-07 17:39:29,257 Progress:skin:30:50
+2015-05-07 17:39:29,277 Progress:skin:31:50
+2015-05-07 17:39:29,321 Progress:skin:32:50
+2015-05-07 17:39:29,357 Progress:skin:33:50
+2015-05-07 17:39:29,376 Progress:skin:34:50
+2015-05-07 17:39:29,419 Progress:skin:35:50
+2015-05-07 17:39:29,438 Progress:skin:36:50
+2015-05-07 17:39:29,467 Progress:skin:37:50
+2015-05-07 17:39:29,504 Progress:skin:38:50
+2015-05-07 17:39:29,519 Progress:skin:39:50
+2015-05-07 17:39:29,559 Progress:skin:40:50
+2015-05-07 17:39:29,572 Progress:skin:41:50
+2015-05-07 17:39:29,607 Progress:skin:42:50
+2015-05-07 17:39:29,622 Progress:skin:43:50
+2015-05-07 17:39:29,665 Progress:skin:44:50
+2015-05-07 17:39:29,677 Progress:skin:45:50
+2015-05-07 17:39:29,704 Progress:skin:46:50
+2015-05-07 17:39:29,730 Progress:skin:47:50
+2015-05-07 17:39:29,750 Progress:skin:48:50
+2015-05-07 17:39:29,776 Progress:skin:49:50
+2015-05-07 17:39:29,805 Progress:skin:50:50
+2015-05-07 17:39:29,808 Generated up/down skin in 1.558s
+2015-05-07 17:39:29,844 Progress:export:1:50
+2015-05-07 17:39:29,878 Progress:export:2:50
+2015-05-07 17:39:29,953 Progress:export:3:50
+2015-05-07 17:39:29,972 Progress:export:4:50
+2015-05-07 17:39:30,020 Progress:export:5:50
+2015-05-07 17:39:30,071 Progress:export:6:50
+2015-05-07 17:39:30,109 Progress:export:7:50
+2015-05-07 17:39:30,237 Progress:export:8:50
+2015-05-07 17:39:30,248 Progress:export:9:50
+2015-05-07 17:39:30,267 Progress:export:10:50
+2015-05-07 17:39:30,298 Progress:export:11:50
+2015-05-07 17:39:30,341 Progress:export:12:50
+2015-05-07 17:39:30,410 Progress:export:13:50
+2015-05-07 17:39:30,425 Progress:export:14:50
+2015-05-07 17:39:30,498 Progress:export:15:50
+2015-05-07 17:39:30,517 Progress:export:16:50
+2015-05-07 17:39:30,593 Progress:export:17:50
+2015-05-07 17:39:30,624 Progress:export:18:50
+2015-05-07 17:39:30,694 Progress:export:19:50
+2015-05-07 17:39:30,708 Progress:export:20:50
+2015-05-07 17:39:30,749 Progress:export:21:50
+2015-05-07 17:39:30,769 Progress:export:22:50
+2015-05-07 17:39:30,811 Progress:export:23:50
+2015-05-07 17:39:30,853 Progress:export:24:50
+2015-05-07 17:39:30,873 Progress:export:25:50
+2015-05-07 17:39:30,922 Progress:export:26:50
+2015-05-07 17:39:30,944 Progress:export:27:50
+2015-05-07 17:39:30,990 Progress:export:28:50
+2015-05-07 17:39:31,010 Progress:export:29:50
+2015-05-07 17:39:31,052 Progress:export:30:50
+2015-05-07 17:39:31,088 Progress:export:31:50
+2015-05-07 17:39:31,131 Progress:export:32:50
+2015-05-07 17:39:31,175 Progress:export:33:50
+2015-05-07 17:39:31,210 Progress:export:34:50
+2015-05-07 17:39:31,286 Progress:export:35:50
+2015-05-07 17:39:31,307 Progress:export:36:50
+2015-05-07 17:39:31,376 Progress:export:37:50
+2015-05-07 17:39:31,404 Progress:export:38:50
+2015-05-07 17:39:31,451 Progress:export:39:50
+2015-05-07 17:39:31,487 Progress:export:40:50
+2015-05-07 17:39:31,516 Progress:export:41:50
+2015-05-07 17:39:31,562 Progress:export:42:50
+2015-05-07 17:39:31,598 Progress:export:43:50
+2015-05-07 17:39:31,616 Progress:export:44:50
+2015-05-07 17:39:31,661 Progress:export:45:50
+2015-05-07 17:39:31,730 Progress:export:46:50
+2015-05-07 17:39:31,745 Progress:export:47:50
+2015-05-07 17:39:31,823 Progress:export:48:50
+2015-05-07 17:39:31,835 Progress:export:49:50
+2015-05-07 17:39:31,908 Progress:export:50:50
+2015-05-07 17:39:31,934 Wrote layers in  2.13s.
+2015-05-07 17:39:31,937 Wrote 426.8 kilobytes.
+2015-05-07 17:39:31,940 Progress:process:1:1
+2015-05-07 17:39:31,943 Total time elapsed  5.02s.
+2015-05-07 17:39:31,948 Print time: 574
+2015-05-07 17:39:31,952 Filament: 922
+2015-05-07 17:39:31,955 Filament2: 0
+2015-05-07 17:39:32,462 ### Finished, returncode 0
+2015-05-07 17:39:32,465 ----------------------------------------

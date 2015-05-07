@@ -1,0 +1,9 @@
+; disable motors
+M84
+
+;disable all heaters
+{% snippet 'disable_hotends' %}
+M140 S0
+
+;disable fan
+M106 S0

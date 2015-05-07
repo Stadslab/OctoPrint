@@ -1,0 +1,111 @@
+2015-05-07 16:44:17,065 - octoprint.server - INFO - Starting OctoPrint 1.1.2-1-gbabbbf6 (master branch)
+2015-05-07 16:44:17,081 - octoprint.gcodefiles - INFO - Migrating metadata if necessary...
+2015-05-07 16:44:17,103 - octoprint.gcodefiles - INFO - Updated 0 sets of metadata to new format
+2015-05-07 16:44:17,179 - octoprint.server - INFO - Listening on http://0.0.0.0:5000
+2015-05-07 16:44:50,573 - octoprint.server.util - INFO - New connection from client: 192.168.0.7
+2015-05-07 16:47:28,425 - octoprint.server.util - INFO - Client connection closed
+2015-05-07 16:47:31,730 - octoprint.server.util - INFO - New connection from client: 192.168.0.7
+2015-05-07 16:57:41,297 - octoprint.server - INFO - Starting OctoPrint 1.1.2-1-gbabbbf6 (master branch)
+2015-05-07 16:57:41,313 - octoprint.gcodefiles - INFO - Migrating metadata if necessary...
+2015-05-07 16:57:41,332 - octoprint.gcodefiles - INFO - Updated 0 sets of metadata to new format
+2015-05-07 16:57:41,394 - octoprint.server - INFO - Listening on http://0.0.0.0:5000
+2015-05-07 16:57:42,602 - octoprint.server.util - INFO - New connection from client: 192.168.0.7
+2015-05-07 17:03:21,800 - octoprint.server - INFO - Goodbye!
+2015-05-07 17:17:41,429 - octoprint.server - INFO - Starting OctoPrint 1.2.0-dev-831-g9d3a029-dirty (devel branch)
+2015-05-07 17:17:41,439 - octoprint.plugin.core - INFO - Loading plugins from /home/pi/.octoprint/plugins, /usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/plugins and installed plugin packages...
+2015-05-07 17:17:41,739 - octoprint.plugins.discovery - INFO - pybonjour is not installed, Zeroconf Discovery won't be available
+2015-05-07 17:17:41,747 - octoprint.plugin.core - INFO - Found 3 plugin(s) providing 3 mixin implementations, 1 hook handlers
+2015-05-07 17:17:41,791 - octoprint.plugin.core - INFO - Initialized 3 plugin(s)
+2015-05-07 17:17:41,795 - octoprint.plugin.core - INFO - 3 plugin(s) registered with the system:
+|  CuraEngine (bundled) = /usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/plugins/cura
+|  Discovery (bundled) = /usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/plugins/discovery
+|  Virtual Printer (bundled) = /usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/plugins/virtual_printer
+2015-05-07 17:17:41,799 - octoprint.filemanager - INFO - Adding backlog items from local to analysis queue
+2015-05-07 17:17:42,853 - octoprint.server - INFO - Listening on http://0.0.0.0:5000
+2015-05-07 17:17:42,862 - octoprint.plugins.discovery - INFO - Registered OctoPrint instance on raspberrypi for SSDP
+2015-05-07 17:17:49,897 - octoprint.server.util.sockjs - INFO - New connection from client: 192.168.0.7
+2015-05-07 17:18:10,828 - octoprint.server.util.sockjs - INFO - Client connection closed: 192.168.0.7
+2015-05-07 17:18:16,743 - octoprint.plugins.cura - INFO - Path to CuraEngine has not been configured yet or does not exist (currently set to None), Cura will not be selectable for slicing
+2015-05-07 17:18:17,853 - octoprint.server.util.sockjs - INFO - New connection from client: 192.168.0.7
+2015-05-07 17:19:32,108 - octoprint.plugins.cura - INFO - Path to CuraEngine has not been configured yet or does not exist (currently set to None), Cura will not be selectable for slicing
+2015-05-07 17:19:35,103 - octoprint.server.util.sockjs - INFO - Client connection closed: 192.168.0.7
+2015-05-07 17:19:40,943 - octoprint.plugins.cura - INFO - Path to CuraEngine has not been configured yet or does not exist (currently set to None), Cura will not be selectable for slicing
+2015-05-07 17:19:41,963 - octoprint.server.util.sockjs - INFO - New connection from client: 192.168.0.7
+2015-05-07 17:22:37,433 - octoprint.server - INFO - Goodbye!
+2015-05-07 17:23:09,654 - octoprint.server - INFO - Starting OctoPrint 1.2.0-dev-831-g9d3a029-dirty (devel branch)
+2015-05-07 17:23:09,663 - octoprint.plugin.core - INFO - Loading plugins from /home/pi/.octoprint/plugins, /usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/plugins and installed plugin packages...
+2015-05-07 17:23:09,963 - octoprint.plugins.discovery - INFO - pybonjour is not installed, Zeroconf Discovery won't be available
+2015-05-07 17:23:09,971 - octoprint.plugin.core - INFO - Found 3 plugin(s) providing 3 mixin implementations, 1 hook handlers
+2015-05-07 17:23:10,012 - octoprint.plugin.core - INFO - Initialized 3 plugin(s)
+2015-05-07 17:23:10,017 - octoprint.plugin.core - INFO - 3 plugin(s) registered with the system:
+|  CuraEngine (bundled) = /usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/plugins/cura
+|  Discovery (bundled) = /usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/plugins/discovery
+|  Virtual Printer (bundled) = /usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/plugins/virtual_printer
+2015-05-07 17:23:10,021 - octoprint.filemanager - INFO - Adding backlog items from local to analysis queue
+2015-05-07 17:23:10,790 - octoprint.server - INFO - Listening on http://0.0.0.0:5000
+2015-05-07 17:23:10,809 - octoprint.plugins.discovery - INFO - Registered OctoPrint instance on raspberrypi for SSDP
+2015-05-07 17:23:10,891 - octoprint.server.util.sockjs - INFO - New connection from client: 192.168.0.7
+2015-05-07 17:26:55,257 - octoprint.plugins.cura - INFO - Running u'"/home/pi/OctoPrint/src/octoprint/plugins/cura/cura_engine" -v -p -s "initialSpeedupLayers=4" -s "minimalFeedrate=10" -s "preSwitchExtruderCode=;Switch between the current extruder and the next extruder, when printing with multiple extruders.\n;This code is added before the T(n)\n" -s "retractionAmountExtruderSwitch=16500" -s "supportXYDistance=700" -s "insetXSpeed=60" -s "retractionZHop=0" -s "postSwitchExtruderCode=;Switch between the current extruder and the next extruder, when printing with multiple extruders.\n;This code is added after the T(n)\n" -s "retractionSpeed=50" -s "filamentFlow=108" -s "infillOverlap=15" -s "inset0Speed=60" -s "coolHeadLift=0" -s "extrusionWidth=500.0" -s "upSkinCount=6" -s "initialLayerSpeed=27" -s "minimalLayerTime=5" -s "infillSpeed=70" -s "supportExtruder=-1" -s "fanSpeedMax=100" -s "supportType=1" -s "enableCombing=1" -s "fanSpeedMin=100" -s "supportZDistance=150" -s "supportEverywhere=0" -s "filamentDiameter=1750" -s "initialLayerThickness=300" -s "supportAngle=-1" -s "fanFullOnLayerNr=1" -s "layerThickness=200" -s "endCode=M104 S0                     ;extruder heater off\nM140 S0                     ;heated bed heater off (if you have it)\nG91                                    ;relative positioning\nG1 E-1 F300                            ;retract the filament a bit before lifting the nozzle, to release some of the pressure\nG1 Z+0.5 E-5 X-20 Y-20 F7200 ;move Z up a bit and retract filament even more\nG28 X0 Y0                              ;move X/Y to min endstops, so the head is out of the way\nM84                         ;steppers off\nG90                         ;absolute positioning\n;CURA_OCTO_PROFILE_STRING:eNrtWl9v2zYQfzX6KfjWFks9SY7rtIZe1iV5aYACybA2SyHQ0sniIpGCSMVxgnz33ZGSLSd2m2Xp0nXOgwOJvP/3O+oOTLmMdAmQRAW/DH3P6xU8zoSEKAZpoIqEjq6gUuEBzzX09LmoTJTbdVVLE55UNfQqMBWPjVAy4oV97feHvbIS0kQGihIqbuoKdkOv7/UqnppowjVEJhPxuQSt8f2gJ6REcTqDPHca2d1lBcczYeJs/9JUdYI7prFKIBy7t2wCZgYgmcmAxXVVodIMmq2My8QuSHyzeLvDZhkSWO2EnDLkk7Gizo0oc1js0v1n45NMaEbSGP7nSQIJiktVBZbpyQv58pmzpuDVVMhwiPrquiwVuojLaQ7h68ZcQa5MeQzWdTORmAyt213sTgUajU6C0B92vVkIGeHDBeTWozNRotfUDL1wofK6sNvTNoI2eqo2a7yoVS6SKOdzXFt63cauDXcCJSoVeCvyHYeh15tUouiGPVhaehUlQhsuY0BRqI9LEdRcFDyPcpBT5OsPSQ11AVXOyyiped5sbpjQm8j6XqPccKJM5jxnZeqSxxiqcIA8yNy0RusyENPMIJvhbR938yoYNQpNeWnpW4lmXkJI3HVPGyh1hFkaoQmOma6bcJHLdBj0ypwbDH0R8SQDq6NUEnqoqFFF41nnLZS4jFMDm45LY1VMyBbrfDIGJJ/kSHcbSa0Hl15BFwY9myoJSC3MnMKQikqbRgGbWBEqblQV+qNhE3ejyjvcrcNbsL5GH+pSVDwXV9ConIrLKFNVJVC5qJYW2yiZ3BZxxy5WisLAMbNEahq6O6gPNi0M2gWlzfeEcYw/8l1CHGTSKPTH8zN55Hu77Nhj6/7GC63QK8REpSlR7HobKexGqitJh4a9ECmbq5plCH0mzMszefjGZ/f4G1eAiSqQCr0qKNJoPlL7bP+Vzw4GnvcVapsg1nhMNF6QqzmbCNNWPoo0edS6XF1d5bDDjGIoFrCkM60KQAvsMpZujTgCK/70JwQqKjFkH18FHvtEPwfXrrY54NywcYEFgp2yumxkUmxblRbqwAVGtlCWb7DHPiIz7ytOsXw//vyJNEVYMYyoRlDoHdTXqkpJTAmA1bPVfsbnGLq93c1cqWxgLmsX5cM3m7UY8wkiESvzalTG12Wl0C4scAYzdXrzfIc9H++j0YfvMN2aXDvx/m66EZH/BDm6zdKnydJ/PU/P5FNmKhEF2/Tepvc2vVeIBltMbDHxDTHx2X3wU0/adJICO9Bhr+ur0A+8u1/6YeAvel3XN9kmi4uKujJs0oJFG+p6Y2pDM64jl4YRpuFKE+FEYXMtpG2H3PPI6zY4mSpt62u/3KM05xfYE1VQVrz8Ym8zaSSpyZ8Qoyghzy2fVOW5mrWN4aJJcrHHFhj/I0yCTQuDTQtuKLKqkYZIlSAjTDXddpCLqclyguAj4cwqvtrSYzdODe+iZRn/wrWImQZDCNFv2XsKH3MN9Ft27aLpHm/Y78gR91yvcr5hB+hpfN3tPzErxh8oIoxSARebyOMDLR20yECDEkfqbHd9503ReTVz0qddshgbwy4ZPRPfIx8T+rgRhrnRTTUE628Se2zLAFGFLR2VLKxfM2nLWWcvI1daft6bBb/78rrL5zDwl8DGRESXX/C8Br2CwA2AO9oLluiFTn9LcluKoj2MRkugY6hde2tLI5cN5JcFaGORcbtOvU4pOl2zB0ukP+xvKoq2njazEZaQY/xhUZDFAdtfU3bGNEy0VI2FCXMjIivpIMBzYH+w/vhig6KgIpiieIbaxecPEMP4lAvphK0aRLmMVXYxMygw6/kUDw3J3r/7lem4AqC66/sj9qHZ1O/37afCcS5imhxQuiZ8fkO/BvPnuoXCt0TgN4DD7iPAwcGKvn/usgoexst7cpTeA3qPCb4Hw+9Mnmz4LGuHasbBI8AvmbbW/DPU+t561PreI8PWSnt1vX6YeWNt9+5lux2d/tesf5Si1XQ427K1LVvfW9kK/sdla1uytyV7W7IfWrKDRyzZ2/L/ROV/cK8ysIvq/3gl8H5H3+CHtH179G2Pvi8cfZ8X93Yu5937RqPmiou7h+PGn90jjobLPaWuINKZgLwdIzfXdlYvoN0ZzYZ+fzR0F26am0t036qNwOL2TG/teXh73pvmahb63l53Ru2u/nQu09BsnXzvroLdGgujYDqKL2gmT4lBt4iskL8AjEqo8A==\n" -s "minimalExtrusionBeforeRetraction=20" -s "retractionMinimalDistance=1500" -s "skirtMinLength=150000" -s "objectSink=0" -s "retractionAmount=1500" -s "skirtLineCount=1" -s "startCode=M109 T0 S214.0\nT0\n\n;Basic settings: Layer height: 0.2 Walls: 1 Fill: 20\n;Print time: ?print_time?\n;Filament used: ?filament_amount?m ?filament_weight?g\n;Filament cost: ?filament_cost?\n;M190 S?print_bed_temperature? ;Uncomment to add your own bed temperature line\n;M109 S214 ;Uncomment to add your own temperature line\nG21        ;metric values\nG90        ;absolute positioning\nM82        ;set extruder to absolute mode\nM107       ;start with the fan off\nG28 X0 Y0  ;move X/Y to min endstops\nG28 Z0     ;move Z to min endstops\nG1 Z15.0 F7200 ;move the platform down 15mm\nG92 E0                  ;zero the extruded length\nG1 F200 E3              ;extrude 3mm of feed stock\nG92 E0                  ;zero the extruded length again\nG1 F7200\n;Put printing message on LCD screen\nM117 Printing...\n" -s "skirtDistance=3000" -s "printSpeed=60" -s "fixHorrible=1" -s "layer0extrusionWidth=875" -s "moveSpeed=120" -s "supportLineDistance=3333" -s "posx=100000" -s "posy=100000" -s "sparseInfillLineDistance=2500" -s "insetCount=2" -s "downSkinCount=6" -s "multiVolumeOverlap=150" -o "/tmp/tmpMg1bsP.gco" "/home/pi/.octoprint/uploads/endstop-holder-z.stl"' in /home/pi/OctoPrint/src/octoprint/plugins/cura
+2015-05-07 17:28:30,238 - octoprint.server - INFO - Goodbye!
+2015-05-07 17:35:12,306 - octoprint.server - INFO - Starting OctoPrint 1.2.0-dev-831-g9d3a029-dirty (devel branch)
+2015-05-07 17:35:12,314 - octoprint.plugin.core - INFO - Loading plugins from /home/pi/.octoprint/plugins, /usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/plugins and installed plugin packages...
+2015-05-07 17:35:12,607 - octoprint.plugins.discovery - INFO - pybonjour is not installed, Zeroconf Discovery won't be available
+2015-05-07 17:35:12,613 - octoprint.plugin.core - INFO - Found 3 plugin(s) providing 3 mixin implementations, 1 hook handlers
+2015-05-07 17:35:12,653 - octoprint.plugin.core - INFO - Initialized 3 plugin(s)
+2015-05-07 17:35:12,657 - octoprint.plugin.core - INFO - 3 plugin(s) registered with the system:
+|  CuraEngine (bundled) = /usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/plugins/cura
+|  Discovery (bundled) = /usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/plugins/discovery
+|  Virtual Printer (bundled) = /usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/plugins/virtual_printer
+2015-05-07 17:35:12,660 - octoprint.filemanager - INFO - Adding backlog items from local to analysis queue
+2015-05-07 17:35:13,451 - octoprint.server - INFO - Listening on http://0.0.0.0:5000
+2015-05-07 17:35:13,467 - octoprint.plugins.discovery - INFO - Registered OctoPrint instance on raspberrypi for SSDP
+2015-05-07 17:35:38,680 - octoprint.server.util.sockjs - INFO - New connection from client: 192.168.0.7
+2015-05-07 17:39:26,544 - octoprint.plugins.cura - INFO - Running u'"/home/pi/OctoPrint/src/octoprint/plugins/cura/cura_engine" -v -p -s "initialSpeedupLayers=4" -s "minimalFeedrate=10" -s "preSwitchExtruderCode=;Switch between the current extruder and the next extruder, when printing with multiple extruders.\n;This code is added before the T(n)\n" -s "retractionAmountExtruderSwitch=16500" -s "supportXYDistance=700" -s "insetXSpeed=60" -s "retractionZHop=0" -s "postSwitchExtruderCode=;Switch between the current extruder and the next extruder, when printing with multiple extruders.\n;This code is added after the T(n)\n" -s "retractionSpeed=50" -s "filamentFlow=108" -s "infillOverlap=15" -s "inset0Speed=60" -s "coolHeadLift=0" -s "extrusionWidth=500.0" -s "upSkinCount=6" -s "initialLayerSpeed=27" -s "minimalLayerTime=5" -s "infillSpeed=70" -s "supportExtruder=-1" -s "fanSpeedMax=100" -s "supportType=1" -s "enableCombing=1" -s "fanSpeedMin=100" -s "supportZDistance=150" -s "supportEverywhere=0" -s "filamentDiameter=1750" -s "initialLayerThickness=300" -s "supportAngle=-1" -s "fanFullOnLayerNr=1" -s "layerThickness=200" -s "endCode=M104 S0                     ;extruder heater off\nM140 S0                     ;heated bed heater off (if you have it)\nG91                                    ;relative positioning\nG1 E-1 F300                            ;retract the filament a bit before lifting the nozzle, to release some of the pressure\nG1 Z+0.5 E-5 X-20 Y-20 F7200 ;move Z up a bit and retract filament even more\nG28 X0 Y0                              ;move X/Y to min endstops, so the head is out of the way\nM84                         ;steppers off\nG90                         ;absolute positioning\n;CURA_OCTO_PROFILE_STRING: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\n" -s "minimalExtrusionBeforeRetraction=20" -s "retractionMinimalDistance=1500" -s "skirtMinLength=150000" -s "objectSink=0" -s "retractionAmount=1500" -s "skirtLineCount=1" -s "startCode=M109 T0 S214.0\nT0\n\n;Basic settings: Layer height: 0.2 Walls: 1 Fill: 20\n;Print time: ?print_time?\n;Filament used: ?filament_amount?m ?filament_weight?g\n;Filament cost: ?filament_cost?\n;M190 S?print_bed_temperature? ;Uncomment to add your own bed temperature line\n;M109 S214 ;Uncomment to add your own temperature line\nG21        ;metric values\nG90        ;absolute positioning\nM82        ;set extruder to absolute mode\nM107       ;start with the fan off\nG28 X0 Y0  ;move X/Y to min endstops\nG28 Z0     ;move Z to min endstops\nG1 Z15.0 F7200 ;move the platform down 15mm\nG92 E0                  ;zero the extruded length\nG1 F200 E3              ;extrude 3mm of feed stock\nG92 E0                  ;zero the extruded length again\nG1 F7200\n;Put printing message on LCD screen\nM117 Printing...\n" -s "skirtDistance=3000" -s "printSpeed=60" -s "fixHorrible=1" -s "layer0extrusionWidth=875" -s "moveSpeed=120" -s "supportLineDistance=3333" -s "posx=100000" -s "posy=100000" -s "sparseInfillLineDistance=2500" -s "insetCount=2" -s "downSkinCount=6" -s "multiVolumeOverlap=150" -o "/tmp/tmpBwcr0w.gco" "/home/pi/.octoprint/uploads/endstop-holder-z.stl"' in /home/pi/OctoPrint/src/octoprint/plugins/cura
+2015-05-07 17:55:45,532 - octoprint - ERROR - Exception on /api/users [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/Flask-0.10.1-py2.7.egg/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/Flask-0.10.1-py2.7.egg/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/Flask-0.10.1-py2.7.egg/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/Flask-0.10.1-py2.7.egg/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/Flask-0.10.1-py2.7.egg/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/server/util/flask.py", line 221, in decorated_view
+    return flask.ext.login.login_required(func)(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Flask_Login-0.2.2-py2.7.egg/flask_login.py", line 637, in decorated_view
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Flask_Principal-0.3.5-py2.7.egg/flask_principal/__init__.py", line 198, in _decorated
+    rv = f(*args, **kw)
+  File "/usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/server/api/users.py", line 48, in addUser
+    password = data["password"]
+KeyError: 'password'
+2015-05-07 17:55:47,495 - octoprint - ERROR - Exception on /api/users [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/Flask-0.10.1-py2.7.egg/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/Flask-0.10.1-py2.7.egg/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/Flask-0.10.1-py2.7.egg/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/Flask-0.10.1-py2.7.egg/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/Flask-0.10.1-py2.7.egg/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/server/util/flask.py", line 221, in decorated_view
+    return flask.ext.login.login_required(func)(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Flask_Login-0.2.2-py2.7.egg/flask_login.py", line 637, in decorated_view
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/Flask_Principal-0.3.5-py2.7.egg/flask_principal/__init__.py", line 198, in _decorated
+    rv = f(*args, **kw)
+  File "/usr/local/lib/python2.7/dist-packages/OctoPrint-1.2.0_dev_831_g9d3a029_dirty-py2.7.egg/octoprint/server/api/users.py", line 48, in addUser
+    password = data["password"]
+KeyError: 'password'
+2015-05-07 17:56:22,493 - octoprint.server.util.sockjs - INFO - Client connection closed: 192.168.0.7
+2015-05-07 17:56:31,693 - octoprint.server.util.sockjs - INFO - New connection from client: 192.168.0.7
+2015-05-07 17:57:31,380 - octoprint.server.util.sockjs - INFO - Client connection closed: 192.168.0.7
+2015-05-07 17:57:39,293 - octoprint.server.util.sockjs - INFO - New connection from client: 192.168.0.7
+2015-05-07 17:58:15,313 - octoprint.server.util.sockjs - INFO - Client connection closed: 192.168.0.7
+2015-05-07 17:58:23,158 - octoprint.server.util.sockjs - INFO - New connection from client: 192.168.0.7

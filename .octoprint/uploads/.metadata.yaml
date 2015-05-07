@@ -1,0 +1,36 @@
+endstop-holder-z.gco:
+  analysis:
+    estimatedPrintTime: 574
+    filament:
+      tool0:
+        length: 922
+        volume: 2.21766988912312
+      tool1:
+        length: 0
+        volume: 0.0
+  hash: d0e7e69935478676deb7799913c1fca16db5c462
+  history:
+  - printTime: 14.215655088424683
+    printerProfile: _default
+    success: true
+    timestamp: 1431020387.445073
+  - printerProfile: _default
+    success: false
+    timestamp: 1431020387.945537
+  links:
+  - hash: 5d06c63a88301e266edbb3dbd9c58610cb560622
+    name: endstop-holder-z.stl
+    rel: model
+  statistics:
+    averagePrintTime:
+      _default: 14.215655088424683
+    lastPrintTime:
+      _default: 14.215655088424683
+endstop-holder-z.stl:
+  hash: 5d06c63a88301e266edbb3dbd9c58610cb560622
+  links:
+  - hash: d0e7e69935478676deb7799913c1fca16db5c462
+    name: endstop-holder-z.gco
+    rel: machinecode
+fanplate.stl:
+  hash: 26d02849d6ff685d5e52622c58386b71f2499783

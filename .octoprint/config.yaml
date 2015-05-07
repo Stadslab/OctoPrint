@@ -1,0 +1,74 @@
+accessControl:
+  salt: YUkvkbyr8cthKCd4NHrkZFNWkRLGOgsF
+api:
+  key: 3807E9D5E9A3469CA8F49ABA2A1C9E52
+appearance:
+  defaultLanguage: en
+cura: {}
+feature: {}
+gcodeViewer: {}
+plugins:
+  cura:
+    cura_engine: /home/pi/OctoPrint/src/octoprint/plugins/cura/cura_engine
+    debug_logging: true
+    default_profile: null
+  discovery:
+    httpPassword: null
+    httpUsername: null
+    model:
+      description: null
+      name: null
+      number: null
+      serial: null
+      url: null
+      vendor: null
+      vendorUrl: null
+    pathPrefix: null
+    publicHost: null
+    publicPort: null
+    upnpUuid: 9216f341-6bb2-462c-81a1-ee39b0674dbe
+    zeroConf: []
+printerParameters: {}
+printerProfiles:
+  defaultProfile:
+    axes:
+      e:
+        inverted: false
+        speed: 300
+      x:
+        inverted: false
+        speed: 6000
+      y:
+        inverted: false
+        speed: 6000
+      z:
+        inverted: false
+        speed: 200
+    color: default
+    extruder:
+      count: 1
+      nozzleDiameter: 0.4
+      offsets:
+      - - 0.0
+        - 0.0
+    heatedBed: false
+    id: _default
+    model: Prusa i3
+    name: Default
+    volume:
+      depth: 200.0
+      formFactor: rectangular
+      height: 200.0
+      origin: lowerleft
+      width: 200.0
+serial:
+  autoconnect: true
+  baudrate: 115200
+  port: /dev/ttyACM0
+  timeout: {}
+server:
+  firstRun: false
+  secretKey: dOxGPM9Fs0FBFLMOVYR369ohgYhbo3LS
+system: {}
+temperature: {}
+webcam: {}
