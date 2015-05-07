@@ -16,8 +16,8 @@
 # Author: Sami Olmari
 
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
-DESC="Octoprint Daemon2"
-NAME="Octoprint2"
+DESC="Octoprint Daemon"
+NAME="Octoprint"
 DAEMON=/usr/local/bin/octoprint2
 PIDFILE=/var/run/$NAME.pid
 PKGNAME=octoprint2
