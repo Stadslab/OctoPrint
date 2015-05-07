@@ -1,12 +1,12 @@
-OctoPrint
+OctoPrint for Stadslab
 =========
-
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=foosel&url=https://github.com/foosel/OctoPrint&title=OctoPrint&language=&tags=github&category=software)
 
 OctoPrint provides a responsive web interface for controlling a 3D printer (RepRap, Ultimaker, ...). It is Free Software
 and released under the [GNU Affero General Public License V3](http://www.gnu.org/licenses/agpl.html).
 
 Its website can be found at [octoprint.org](http://octoprint.org).
+
+This fork is for usage within Stadslab Rotterdam, where we use multiple printers on one Raspberry Pi B+. We use OctoPrint so we can make some default slicing profiles, which is a huge contributor to user-errors. 
 
 Contributing
 ------------
