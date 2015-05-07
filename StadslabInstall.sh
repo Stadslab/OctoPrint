@@ -11,9 +11,7 @@ sudo rm -r ~/.octoprint3
 sudo mkdir ~/.octoprint3
 sudo rm -r ~/.octoprint4
 sudo mkdir ~/.octoprint4
-sudo cp .octoprint ./octoprint1
-sudo cp .octoprint ./octoprint2
-sudo cp .octoprint ./octoprint3
-sudo cp .octoprint ./octoprint4
-
-
+sudo cp -r .octoprint ./octoprint1
+sudo cp -r .octoprint ./octoprint2
+sudo cp -r .octoprint ./octoprint3
+sudo cp -r .octoprint ./octoprint4
